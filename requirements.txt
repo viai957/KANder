@@ -1,0 +1,10 @@
+torch
+torchvision
+imageio
+imageio-ffmpeg
+matplotlib
+configargparse
+tensorboard
+tqdm
+opencv-python
+
